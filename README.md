@@ -260,6 +260,7 @@ Dieses Projekt kann beispielsweise unter der **MIT License** veröffentlicht wer
 
 ## 👨‍💻 Autor
 Cerzz
+dnljung@proton.me
 
 Entwickelt mit **Python ** und **Tkinter**.
 

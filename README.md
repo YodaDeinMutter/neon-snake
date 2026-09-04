@@ -70,8 +70,7 @@ python --version
 Repository klonen:
 
 ```bash
-git clone https://github.com/DEIN-USERNAME/neon-snake.git
-```
+git clone https://github.com/YodaDeinMutter/neon-snake.git```
 
 In das Verzeichnis wechseln:
 

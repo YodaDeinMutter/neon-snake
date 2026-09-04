@@ -256,13 +256,12 @@ Geplante mögliche Erweiterungen:
 
 Dieses Projekt kann beispielsweise unter der **MIT License** veröffentlicht werden.
 
-Wenn du eine andere Lizenz verwenden möchtest, ersetze diesen Abschnitt entsprechend.
-
 ---
 
 ## 👨‍💻 Autor
+Cerzz
 
-Entwickelt mit **Python 🐍** und **Tkinter**.
+Entwickelt mit **Python ** und **Tkinter**.
 
 Viel Spaß beim Spielen! 🎮
 

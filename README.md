@@ -26,20 +26,6 @@ Wenn die Schlange den Spielfeldrand erreicht, erscheint sie auf der gegenüberli
 
 ---
 
-## 📸 Vorschau
-
-> Screenshot oder GIF des Spiels hier einfügen.
-
-Zum Beispiel:
-
-```text
-docs/screenshot.png
-```
-
-Du kannst später ein Bild in dein Repository hochladen und diesen Abschnitt entsprechend anpassen.
-
----
-
 ## 🛠️ Voraussetzungen
 
 Du benötigst:

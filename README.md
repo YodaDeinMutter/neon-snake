@@ -236,11 +236,6 @@ Geplante mögliche Erweiterungen:
 * zusätzliche Power-Ups
 * vollständiges Neon-UI
 
----
-
-## 📜 Lizenz
-
-Dieses Projekt kann beispielsweise unter der **MIT License** veröffentlicht werden.
 
 ---
 
